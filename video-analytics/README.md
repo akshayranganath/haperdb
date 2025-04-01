@@ -38,4 +38,4 @@ Here is a high level architecture.
 # Watch the app in action
 
 Here is a video explaining the architecture and the working of the code.
-[![Watch the video](https://raw.githubusercontent.com/akshayranganath/haperdb/refs/heads/main/video-analytics/thumbnail.png)](https://raw.githubusercontent.com/akshayranganath/haperdb/refs/tree/main/video-analytics/video-player-analytics.mp4)
+[![Watch the video](https://raw.githubusercontent.com/akshayranganath/haperdb/refs/heads/main/video-analytics/thumbnail.png)](https://raw.githubusercontent.com/akshayranganath/haperdb/refs/heads/main/video-analytics/video-player-analytics.mp4)
