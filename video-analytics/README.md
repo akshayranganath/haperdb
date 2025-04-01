@@ -38,4 +38,4 @@ Here is a high level architecture.
 # Watch the app in action
 
 Here is a video explaining the architecture and the working of the code.
-[![Watch the video](https://akshayranganath-res.cloudinary.com/video/upload/f_auto:img,q_auto,w_350/blog/video-player-analytics.mp4)](https://akshayranganath-res.cloudinary.com/video/upload/f_auto,q_auto/blog/video-player-analytics.mp4)
+[![Watch the video](https://akshayranganath-res.cloudinary.com/video/upload/f_auto,q_auto,w_350/blog/video-player-analytics.jpg)](https://akshayranganath-res.cloudinary.com/video/upload/f_auto,q_auto/blog/video-player-analytics.mp4)
