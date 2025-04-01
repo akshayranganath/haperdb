@@ -31,11 +31,11 @@ Here is a high level architecture.
 
 # Sample charts
 
-![video player events](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto/blog/analytics-events.png)
+![video player events](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto,w_350/blog/analytics-events.png)
 
-![video playback measure](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto/blog/analytics-percentage-completed.png)
+![video playback measure](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto,w_350/blog/analytics-percentage-completed.png)
 
 # Watch the app in action
 
 Here is a video explaining the architecture and the working of the code.
-[![Watch the video](https://raw.githubusercontent.com/akshayranganath/haperdb/refs/heads/main/video-analytics/thumbnail.png)](https://akshayranganath-res.cloudinary.com/video/upload/f_auto,q_auto/blog/video-player-analytics.mp4)
+[![Watch the video](https://akshayranganath-res.cloudinary.com/video/upload/f_auto:img,q_auto,w_350/blog/video-player-analytics.mp4)](https://akshayranganath-res.cloudinary.com/video/upload/f_auto,q_auto/blog/video-player-analytics.mp4)
