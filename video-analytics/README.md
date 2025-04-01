@@ -35,3 +35,7 @@ Here is a high level architecture.
 
 ![video playback measure](https://akshayranganath-res.cloudinary.com/image/upload/f_auto,q_auto/blog/analytics-percentage-completed.png)
 
+# Watch the app in action
+
+Here is a video explaining the architecture and the working of the code.
+[![Watch the video](https://raw.githubusercontent.com/akshayranganath/haperdb/tree/main/video-analytics/thumbnail.png)](https://raw.githubusercontent.com/akshayranganath/haperdb/tree/main/video-analytics/video-player-analytics.mp4)
